@@ -1,0 +1,1 @@
+This example demonstrates a common error in Ada related to array slicing. Ada's array slicing is restrictive; you can't directly create a sub-array of the same type as the original using simple slicing.  The solution showcases a common workaround.
